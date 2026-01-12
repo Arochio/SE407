@@ -1,0 +1,14 @@
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\bin\Debug\net8.0\W1Lab.exe
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\bin\Debug\net8.0\W1Lab.deps.json
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\bin\Debug\net8.0\W1Lab.runtimeconfig.json
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\bin\Debug\net8.0\W1Lab.dll
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\bin\Debug\net8.0\W1Lab.pdb
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.AssemblyInfoInputs.cache
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.AssemblyInfo.cs
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.csproj.CoreCompileInputs.cache
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.dll
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\refint\W1Lab.dll
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.pdb
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.genruntimeconfig.cache
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\ref\W1Lab.dll

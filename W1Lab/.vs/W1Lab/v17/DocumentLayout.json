@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cooper\\Desktop\\myprojects\\SE407\\W1Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{918EF301-6E42-4888-B72B-6F37BC29DD99}|W1Lab.csproj|c:\\users\\cooper\\desktop\\myprojects\\se407\\w1lab\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918EF301-6E42-4888-B72B-6F37BC29DD99}|W1Lab.csproj|solutionrelative:gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918EF301-6E42-4888-B72B-6F37BC29DD99}|W1Lab.csproj|c:\\users\\cooper\\desktop\\myprojects\\se407\\w1lab\\gamepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918EF301-6E42-4888-B72B-6F37BC29DD99}|W1Lab.csproj|solutionrelative:gamepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918EF301-6E42-4888-B72B-6F37BC29DD99}|W1Lab.csproj|c:\\users\\cooper\\desktop\\myprojects\\se407\\w1lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918EF301-6E42-4888-B72B-6F37BC29DD99}|W1Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamePiece.cs",
+              "DocumentMoniker": "C:\\Users\\Cooper\\Desktop\\myprojects\\SE407\\W1Lab\\GamePiece.cs",
+              "RelativeDocumentMoniker": "GamePiece.cs",
+              "ToolTip": "C:\\Users\\Cooper\\Desktop\\myprojects\\SE407\\W1Lab\\GamePiece.cs",
+              "RelativeToolTip": "GamePiece.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:24:45.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cooper\\Desktop\\myprojects\\SE407\\W1Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cooper\\Desktop\\myprojects\\SE407\\W1Lab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAawBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:23:07.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Cooper\\Desktop\\myprojects\\SE407\\W1Lab\\GameBoard.cs",
+              "RelativeDocumentMoniker": "GameBoard.cs",
+              "ToolTip": "C:\\Users\\Cooper\\Desktop\\myprojects\\SE407\\W1Lab\\GameBoard.cs",
+              "RelativeToolTip": "GameBoard.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAawEYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:24:32.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
