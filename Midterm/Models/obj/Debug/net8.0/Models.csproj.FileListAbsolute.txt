@@ -1,0 +1,16 @@
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\bin\Debug\net8.0\Models.dll
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\bin\Debug\net8.0\Interfaces.dll
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\Models.sourcelink.json
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\Models.csproj.Up2Date
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\Models.dll
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\Cooper\Desktop\myprojects\SE407\Midterm\Models\obj\Debug\net8.0\ref\Models.dll

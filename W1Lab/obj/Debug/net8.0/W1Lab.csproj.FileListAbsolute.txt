@@ -12,3 +12,4 @@ C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\refint\W1Lab.dll
 C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.pdb
 C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.genruntimeconfig.cache
 C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\ref\W1Lab.dll
+C:\Users\Cooper\Desktop\myprojects\SE407\W1Lab\obj\Debug\net8.0\W1Lab.sourcelink.json
