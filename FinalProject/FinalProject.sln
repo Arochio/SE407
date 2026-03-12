@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{163CF970-5F15-416D-9EAC-D99F3C8DE29A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{0ABCFF09-7346-4192-9EA9-70B1DEC4EE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B2E22C72-1F50-4E45-8AA5-530F44F724C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163CF970-5F15-416D-9EAC-D99F3C8DE29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163CF970-5F15-416D-9EAC-D99F3C8DE29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163CF970-5F15-416D-9EAC-D99F3C8DE29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163CF970-5F15-416D-9EAC-D99F3C8DE29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABCFF09-7346-4192-9EA9-70B1DEC4EE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABCFF09-7346-4192-9EA9-70B1DEC4EE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABCFF09-7346-4192-9EA9-70B1DEC4EE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABCFF09-7346-4192-9EA9-70B1DEC4EE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E22C72-1F50-4E45-8AA5-530F44F724C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E22C72-1F50-4E45-8AA5-530F44F724C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E22C72-1F50-4E45-8AA5-530F44F724C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E22C72-1F50-4E45-8AA5-530F44F724C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0631BC-5D5C-4F28-8A49-0D3F3AEBF9DE}
+	EndGlobalSection
+EndGlobal
